@@ -16,6 +16,7 @@
 		B71727E421B2B63A00987D7F /* StudyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71727E321B2B63A00987D7F /* StudyUITests.swift */; };
 		B71727F221B2B6F900987D7F /* ResetFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71727F121B2B6F900987D7F /* ResetFile.swift */; };
 		B71727F421B2B77900987D7F /* ResetFile1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71727F321B2B77900987D7F /* ResetFile1.swift */; };
+		B71727F821B2BB8E00987D7F /* ResetFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71727F721B2BB8E00987D7F /* ResetFile2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		B71727E521B2B63A00987D7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B71727F121B2B6F900987D7F /* ResetFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetFile.swift; sourceTree = "<group>"; };
 		B71727F321B2B77900987D7F /* ResetFile1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetFile1.swift; sourceTree = "<group>"; };
+		B71727F721B2BB8E00987D7F /* ResetFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetFile2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				B71727CF21B2B63A00987D7F /* Info.plist */,
 				B71727F121B2B6F900987D7F /* ResetFile.swift */,
 				B71727F321B2B77900987D7F /* ResetFile1.swift */,
+				B71727F721B2BB8E00987D7F /* ResetFile2.swift */,
 			);
 			path = Study;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B71727F221B2B6F900987D7F /* ResetFile.swift in Sources */,
+				B71727F821B2BB8E00987D7F /* ResetFile2.swift in Sources */,
 				B71727C621B2B63900987D7F /* ViewController.swift in Sources */,
 				B71727C421B2B63900987D7F /* AppDelegate.swift in Sources */,
 				B71727F421B2B77900987D7F /* ResetFile1.swift in Sources */,
