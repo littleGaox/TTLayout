@@ -11,4 +11,6 @@ import UIKit
 class ResetFile: NSObject {
     // 我是master
     // 我就是测试下这里有没有冲突
+    
+    // master 前进了一步
 }
